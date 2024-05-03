@@ -1,0 +1,9 @@
+.options {
+  display: flex;
+  gap: 5px;
+}
+.btn {
+  padding: 0px, 0px;
+  background-color: gainsboro;
+  width: 95px;
+}
